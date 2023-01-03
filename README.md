@@ -20,6 +20,7 @@ and distribute the ZIP file.
 ==============================
 ALTERNATE TO ONLY RUN THE GAME 
 ==============================
-Simply download and open SnakeGame.jar which is in this repository and play the game!!! 
+Simply download and open SnakeGame.jar which is in this repository and play the game!!!
+Note : JDK Must be installed.
 
 <pre>
