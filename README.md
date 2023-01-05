@@ -18,7 +18,7 @@ To distribute this project, zip up the dist folder (including the lib folder)
 and distribute the ZIP file.
 
 ==============================
-ALTERNATE TO ONLY RUN THE GAME 
+ALTERNATE TO ONLY PLAY THE GAME 
 ==============================
 Simply download and open SnakeGame.jar which is in this repository and play the game!!!
 Note : JDK Must be installed.
