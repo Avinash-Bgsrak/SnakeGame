@@ -23,4 +23,7 @@ ALTERNATE TO ONLY PLAY THE GAME
 Simply download and open SnakeGame.jar which is in this repository and play the game!!!
 Note : JDK Must be installed.
 
-<pre>
+</pre>
+<h3>Screenshots</h3>
+
+![snake](https://user-images.githubusercontent.com/120415611/212036072-cc77bc2c-f5a5-4cee-91cc-72bd5129dbb4.png)
